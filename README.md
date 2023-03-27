@@ -8,3 +8,5 @@
 
 <LinkedList.cs>
 1. top 노드를 가리키는 변수 top이 멤버 변수로 있습니다. 멤버 함수는 push(), pop()이 있습니다. 
+
+![test화면](https://user-images.githubusercontent.com/128915671/227824640-554fa6ae-93b0-4792-adc2-a79f10304b18.PNG)

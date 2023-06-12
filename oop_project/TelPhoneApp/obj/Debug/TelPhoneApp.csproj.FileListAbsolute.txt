@@ -1,0 +1,14 @@
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\bin\Debug\TelPhoneApp.exe.config
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\bin\Debug\TelPhoneApp.exe
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\bin\Debug\TelPhoneApp.pdb
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.csproj.AssemblyReference.cache
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.MainForm.resources
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.Properties.Resources.resources
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.csproj.GenerateResource.cache
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.exe
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.pdb
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.Login.resources
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.sales_details.resources
+C:\Users\백세은\Downloads\telphoneapp_cs21-masterq\telphoneapp_cs21-master\TelPhoneApp\obj\Debug\TelPhoneApp.stock.resources

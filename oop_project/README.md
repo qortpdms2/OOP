@@ -1,12 +1,10 @@
-1. 첫 프로젝트 실습 시작
+WinForm은 총 4개를 구현하였다.
+MainForm, Login, sales_details, stock
 
-2. 기본 Person 객체 생성과 People객체 생성 및 
-추가 버튼 UI 작성
+MainForm은 포스기 메인 화면을 나타내는 폼
+Login은 Login 하는 폼
+sales_details는 판매 내역 폼
+stock은 재고 관리 폼이다.
 
-3. Person 클래스와 People 클래스를 파일로 모듈화하고 추가버튼 클릭 시 텍스트박스의 내용을 비우고 포커스를 지정함.
-
-4. 검색, 삭제 버튼 UI 작성
-
-5. 검색 버튼의 이벤트 생성 및 검색 기능 구현
-
-6. 검색, 삭제 기능 구현 및 출력 버튼 이벤트 구현
+[Login.cs]
+![image](https://github.com/qortpdms2/OOP/assets/128915671/911693bd-7e80-4b74-bbf9-b5c184d32f64)

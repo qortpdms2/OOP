@@ -53,8 +53,10 @@ Pos기 보이기 전에
 
 [판매내역 버튼, 재고현황 버튼]12
 - 판매내역 또는 재고현황 버튼을 클릭하면 해당 포스기 폼은 닫히고, 판매내역 윈폼으로 이동한다.
-
+<판매내역폼,재고현황폼>
 ![image](https://github.com/qortpdms2/OOP/assets/128915671/bab94ba5-57ef-41bd-ad11-e53f07a4107d)
+![image](https://github.com/qortpdms2/OOP/assets/128915671/a430b0e3-bd53-42cd-a782-df28a700dcfa)
+
 
 [Home 버튼 구현]12
 판매내역 winform, 재고현황 winform 둘 다에 구현한 버튼. Home 버튼을 클릭하면 '메인 홈으로 이동합니다.'는 알림이 뜨고 MainForm으로 이동한다. 즉 포스기의 메인 화면으로 이동
